@@ -1,7 +1,7 @@
 <img alt="Capa" src=".github/capa.jpg" />
 
 <h1 align="center">
-  Desafio 01: Busca por texto
+  Desafio - SearchText
 </h1>
 
 <p align="center">
